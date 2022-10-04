@@ -7,4 +7,4 @@
 - Как много карточек генерируют источники с разными темами?
 - Как соотносятся темы карточек и темы источников?
 
-## [Tableau](https://public.tableau.com/app/profile/templtn/viz/_16600599946430/_#3)
+## Tableau [ссылка](https://public.tableau.com/app/profile/templtn/viz/_16600599946430/_#3)
