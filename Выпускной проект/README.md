@@ -18,6 +18,6 @@
 ## Используемые библиотеки
 `Pandas`  `Matplotlib` `NumPy`  `Seaborn` `Scipy`
 
-## Дашборд [ссылка](https://public.tableau.com/app/profile/templtn/viz/_16625906579330/Dashboard1)
+## Дашборд [(ссылка)](https://public.tableau.com/app/profile/templtn/viz/_16625906579330/Dashboard1)
 - Гистограмма, отображающая количество пользователей, пришедших из разных источников
 - Диаграмма, отображающая количество событий по дням
